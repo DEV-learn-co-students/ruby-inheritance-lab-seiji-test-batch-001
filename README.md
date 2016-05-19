@@ -1,0 +1,1 @@
+# ruby-inheritance-lab-seiji-test-batch-001
